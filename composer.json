@@ -1,5 +1,5 @@
 {
     "require": {
-        "neha0921/substrate-interface-package": "^3.0"
+        "neha0921/substrate-interface-package": "^3.0.1"
     }
 }
